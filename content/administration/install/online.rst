@@ -19,3 +19,4 @@ customizations that don't require code.
 
 .. note::
    Odoo Online is incompatible with custom modules or the Odoo App Store.
+:eyes:
